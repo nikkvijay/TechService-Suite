@@ -28,8 +28,7 @@ TechService Suite is a comprehensive service management system designed to handl
 ## Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/TechService-Suite.git
+   //git clone https://github.com/yourusername/TechService-Suite.git
 
 2. Database Configuration:
 // Change the database name and password in DAO.java
@@ -43,4 +42,4 @@ final String username = "youremail@example.com";
 final String password = "yourEmailPassword";
 
 4.Contributing
-Contributions are welcome! Please fork this repository and submit pull requests with improvements or bug fixes.
+//Contributions are welcome! Please fork this repository and submit pull requests with improvements or bug fixes.
